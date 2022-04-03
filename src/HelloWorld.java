@@ -8,10 +8,10 @@ public class HelloWorld {
         System.out.println(str);
 
 
+        String testStr = "commit Git";
 
-
+        System.out.println(testStr);
     }
-
 
 
 }
